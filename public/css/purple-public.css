@@ -1,0 +1,115 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .blocker {
+     z-index:999 !important;
+         background-color: rgb(1 1 1 / 35%) !important;
+ }
+div#search-head {
+    width: 100% !important;
+    max-width: 700px;
+    padding: 0;
+    top: -100px !important;
+}
+
+div#search-head .modal-body form {
+    display: flex;
+}
+#sfba_subscribe_form_664 #sfba-form2-container {
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+}
+
+#sfba_subscribe_form_664 #sfba-form2-container .sfba_subscribe_form__fields_wrap {
+    display: flex !important;
+    max-width: 440px !important;
+}
+
+div#sfba-form2-container {
+    background: transparent !important;
+    padding: 0 !important;
+    border: none !important;
+}
+
+div#sfba-form2-container .sfba_subscribe_form__fields_wrap {
+    display: flex;
+    max-width: 500px !important;
+}
+
+input#sfba-form2-button {
+    width: 115px !important;
+}
+
+div#search-head .modal-header {
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: solid 1px #dbdbdb;
+}
+
+h4.modal-title.w-100.text-center {}
+
+div#search-head .modal-header h4.modal-title {
+    font-size: 25px;
+    font-weight: 800;
+    text-transform: uppercase;
+    /* border-bottom: solid 1px; */
+    color: #f15d4a;
+}
+
+div#search-head .modal-body {
+    padding: 40px;
+}
+
+div#search-head .modal-body form {
+    display: flex;
+}
+#sfba_subscribe_form_664 #sfba-form2-container {
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+}
+
+#sfba_subscribe_form_664 #sfba-form2-container .sfba_subscribe_form__fields_wrap {
+    display: flex !important;
+    max-width: 440px !important;
+}
+
+.sfba_subscribe_form__fields {
+    width: 100%;
+}
+p.subscribeform1_sub_heading {
+    display: none;
+}
+
+h2#sfba-form2-heading {
+    display: none;
+}
+
+input#sfba-form2-email {
+    height: 40px !important;
+}
+
+input#sfba-form2-button {
+    margin-top: 8px !important;
+    height: 40px;
+}
+div#sfba_thanks_container {
+    position: absolute !important;
+    top: 0!important;
+    height: auto !important;
+    padding: 24px;
+}
+
+p#sfba_thanks_image {
+    width: 195px;
+}
+
+div#sfba-form2-container {
+    position: inherit !important;
+}
+
+div#sfba-form2-container p#sfba_thanks_image {
+    width: 50px;
+}
